@@ -5,7 +5,17 @@
     <link>https://blog.sryu.dev/</link>
     <description>Recent content on blog.sryu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 02:52:21 +0900</lastBuildDate><atom:link href="https://blog.sryu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 18:46:56 +0900</lastBuildDate><atom:link href="https://blog.sryu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>한컴타자연습 이스터에그 분석</title>
+      <link>https://blog.sryu.dev/post/hancom-typing-training-easter-egg/</link>
+      <pubDate>Thu, 19 Jan 2023 18:46:56 +0900</pubDate>
+      
+      <guid>https://blog.sryu.dev/post/hancom-typing-training-easter-egg/</guid>
+      <description>고등학교 2학년 때 한컴타자연습 리소스에 이스터에그가 숨겨져 있다는 사실을 우연히 알게 됐는데요, 이스터에그가 더미 데이터로만 존재하는지, 아니면 프로그램 상에서 띄우는 방법이 따로 있는지 궁금해서 한컴타자연습을 리버싱 했었습니다. 프로그램 구조가 많이 단순해 이스터에그를 띄우는 키 조합을 금방 알아낼 수 있었고, 리버싱 결과를 페이스북의 코딩이랑 무관합니다만 그룹에 올려놨습니다.
+블로그를 개설한 지 한 달 정도 됐는데, 뭐라도 올려야 될 것 같아서 키 조합을 어떻게 알아냈는지 리버싱 과정을 정리해서 올려볼려고 합니다. 2년 전에 리버싱 과정을 따로 기록해두지 않아 이번에 리버싱을 다시 했는데, 재작년에 발견하지 못한 또 다른 키 조합도 발견했네요.</description>
+    </item>
+    
     <item>
       <title>블로그 개설</title>
       <link>https://blog.sryu.dev/post/hello-world/</link>
