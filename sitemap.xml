@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.sryu.dev/post/avx%EA%B0%80-%EC%8F%98%EC%95%84%EC%98%AC%EB%A6%B0-%EC%9E%91%EC%9D%80-ub/</loc>
+    <lastmod>2023-03-28T19:54:02+09:00</lastmod>
+  </url><url>
     <loc>https://blog.sryu.dev/</loc>
-    <lastmod>2023-01-19T18:46:56+09:00</lastmod>
+    <lastmod>2023-03-28T19:54:02+09:00</lastmod>
   </url><url>
     <loc>https://blog.sryu.dev/post/</loc>
-    <lastmod>2023-01-19T18:46:56+09:00</lastmod>
+    <lastmod>2023-03-28T19:54:02+09:00</lastmod>
   </url><url>
     <loc>https://blog.sryu.dev/post/hancom-typing-training-easter-egg/</loc>
     <lastmod>2023-01-19T18:46:56+09:00</lastmod>
@@ -19,5 +22,11 @@
     <loc>https://blog.sryu.dev/tags/</loc>
   </url><url>
     <loc>https://blog.sryu.dev/search/</loc>
+  </url><url>
+    <loc>https://blog.sryu.dev/archives/</loc>
+  </url><url>
+    <loc>https://blog.sryu.dev/categories/</loc>
+  </url><url>
+    <loc>https://blog.sryu.dev/tags/</loc>
   </url>
 </urlset>

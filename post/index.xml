@@ -5,25 +5,32 @@
     <link>https://blog.sryu.dev/post/</link>
     <description>Recent content in Posts on blog.sryu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Jan 2023 18:46:56 +0900</lastBuildDate><atom:link href="https://blog.sryu.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Mar 2023 19:54:02 +0900</lastBuildDate>
+    <atom:link href="https://blog.sryu.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVX가 쏘아올린 작은 UB</title>
+      <link>https://blog.sryu.dev/post/avx%EA%B0%80-%EC%8F%98%EC%95%84%EC%98%AC%EB%A6%B0-%EC%9E%91%EC%9D%80-ub/</link>
+      <pubDate>Tue, 28 Mar 2023 19:54:02 +0900</pubDate>
+      <guid>https://blog.sryu.dev/post/avx%EA%B0%80-%EC%8F%98%EC%95%84%EC%98%AC%EB%A6%B0-%EC%9E%91%EC%9D%80-ub/</guid>
+      <description>시작하기 전에&amp;hellip; 사실 이 글은 2023년 3월 말에 초안을 완성했는데, 게으름 이슈로 약 1년 가량이 지난 다음에서야 다듬어서 업로드 하게 됐어요. 그래서 이 글에서 지칭하는 &amp;lsquo;요즘&amp;rsquo;은 2023년 3월 말을 의미해요.
+사건의 발단 요즘 학교에서 C언어를 배우고 있어요. 교수님께서 기초적인 C언어 문법만으로는 학생들을 변별하기 어려워서인지 Undefined Behaviour이 잔뜩 포함되어 아리까리한 내용을 많이 가르치시고 있어요. 하루는 교수님이 다음과 같은 코드를 보여주셨어요.
+printf(&amp;#34;%f&amp;#34;, 5 / 2); 교수님께서 5 / 2는 양쪽 모두 int형이기 때문에 연산 결과가 실수형 2.</description>
+    </item>
     <item>
       <title>한컴타자연습 이스터에그 분석</title>
       <link>https://blog.sryu.dev/post/hancom-typing-training-easter-egg/</link>
       <pubDate>Thu, 19 Jan 2023 18:46:56 +0900</pubDate>
-      
       <guid>https://blog.sryu.dev/post/hancom-typing-training-easter-egg/</guid>
       <description>고등학교 2학년 때 한컴타자연습 리소스에 이스터에그가 숨겨져 있다는 사실을 우연히 알게 됐는데요, 이스터에그가 더미 데이터로만 존재하는지, 아니면 프로그램 상에서 띄우는 방법이 따로 있는지 궁금해서 한컴타자연습을 리버싱 했었습니다. 프로그램 구조가 많이 단순해 이스터에그를 띄우는 키 조합을 금방 알아낼 수 있었고, 리버싱 결과를 페이스북의 코딩이랑 무관합니다만 그룹에 올려놨습니다.
 블로그를 개설한 지 한 달 정도 됐는데, 뭐라도 올려야 될 것 같아서 키 조합을 어떻게 알아냈는지 리버싱 과정을 정리해서 올려볼려고 합니다. 2년 전에 리버싱 과정을 따로 기록해두지 않아 이번에 리버싱을 다시 했는데, 재작년에 발견하지 못한 또 다른 키 조합도 발견했네요.</description>
     </item>
-    
     <item>
       <title>블로그 개설</title>
       <link>https://blog.sryu.dev/post/hello-world/</link>
       <pubDate>Fri, 23 Dec 2022 02:52:21 +0900</pubDate>
-      
       <guid>https://blog.sryu.dev/post/hello-world/</guid>
       <description>블로그를 새로 개설했습니다!</description>
     </item>
-    
   </channel>
 </rss>
